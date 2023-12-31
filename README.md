@@ -6,8 +6,5 @@ Demo Instructions : https://aws.amazon.com/blogs/networking-and-content-delivery
 
 Video : https://photos.app.goo.gl/WLe4Vi7HrdftXLvT7
 
-
-
-
 ## Global Accelerator
 
